@@ -8,4 +8,7 @@ Este é um guia pra você que quer iniciar seus estudos em programação em 2024
 
 O conteúdo será liberado quando chegarmos a 10k programadores no perfil. Então já dá uma estrelinha nesse repositório pra voltar nele!
 
-![load](loading.gif)
+### 
+<p align="center" width="100%">
+    <img width="33%" src="loading.gif">
+</p>
